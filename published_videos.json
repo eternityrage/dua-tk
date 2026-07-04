@@ -526,5 +526,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-f8ed41a6-2996-4e21-b025-75dd267cc056.mp4",
+        "metadata": {
+            "title": "Dua Lipa Interview Moments That Proved She's a Star",
+            "description": "Dua Lipa's journey from Disney Channel star to two-time Emmy winner is nothing short of inspirational. She started on Shake It Up, danced on DWTS, and proved everyone wrong with every step. She's used her platform to speak up about diversity, mental health, and social justice. She's not just a star \u2014 she's a role model for an entire generation. Her story proves that with talent, hard work, and authenticity, you can achieve anything. Share this if Dua Lipa inspires you! \u2b50 #dualipa #inspiration #hollywood #successstory #disneychannel #emmywinner #rolemodel #diversity #mentalhealth #motivation #dualipafan #journey",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
